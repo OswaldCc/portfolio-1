@@ -50,6 +50,6 @@
 🔭 I’m currently working on [Kenzzy](https://github.com/OswaldCc/kenzzy)
 
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/OswaldCc)
+👨‍💻 Review my projects at [https://github.com/OswaldCc](https://github.com/OswaldCc)
 
 
